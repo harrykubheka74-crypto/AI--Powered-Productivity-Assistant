@@ -1,0 +1,5 @@
+print("AI Productive Assisstant")
+task = input("Enter task: ")
+print("Summarizing:", task)
+print("Priority: High")
+print(:Added to planner!") 
